@@ -1,0 +1,9 @@
+{
+  "dataset_name": "rpool/USERDATA",
+  "mount_path": "/home/zfsuser/mnt",
+  "ssh_key_path": "/home/zfsuser/.ssh/id_zfs",
+  "ssh_user": "zfsuser",
+  "snapshot_prefix": "st_auto_",
+  "snapshot_retention": 30
+}
+
