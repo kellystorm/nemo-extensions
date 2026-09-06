@@ -1,0 +1,10 @@
+[Nemo Action]
+Active=true
+Name=Transpose Workspace (ZFS ThinSync)
+Comment=Executes high-velocity differential block-level replication over the wire
+Exec=gnome-terminal -- bash -c "/usr/local/bin/nemo-zfs-migrate.sh %F; read -p 'Migration loop executed. Press [Enter] to seal context...'"
+Icon-Name=network-transmit-receive-symbolic
+Selection=s
+Extensions=dir;
+Quote=double
+Conditions=path:/home/zfsuser/mnt;
