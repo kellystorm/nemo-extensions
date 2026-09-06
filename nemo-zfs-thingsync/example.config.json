@@ -4,6 +4,7 @@
   "ssh_key_path": "/home/zfsuser/.ssh/id_zfs",
   "ssh_user": "zfsuser",
   "snapshot_prefix": "st_auto_",
-  "snapshot_retention": 30
+  "snapshot_retention": 30,
+  "desktop_host": "desktop-rig.local",
+  "thin_client_host": "thin-client.local"
 }
-

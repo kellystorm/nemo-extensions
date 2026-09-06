@@ -2,7 +2,7 @@
 # -----------------------------------------------------------------------------
 # Standalone Dataset Snapshot Hook & Pruner
 # Primary Author: Gemini AI
-# Co-Author: k
+# Co-Author: @kellystorm
 # -----------------------------------------------------------------------------
 
 # Unified namespace directory hook

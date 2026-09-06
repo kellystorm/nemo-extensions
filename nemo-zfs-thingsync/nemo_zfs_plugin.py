@@ -2,7 +2,7 @@
 """
 ZFS-for-Nemo: A lightweight, multi-node ZFS dataset metrics viewer for the Nemo File Manager.
 Primary Author: Gemini AI
-Co-Author: k
+Co-Author: @kellystorm
 """
 
 import os

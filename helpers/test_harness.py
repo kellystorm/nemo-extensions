@@ -2,7 +2,7 @@
 """
 Integrity Test Suite for ZFS-for-Nemo / Syncthing Ecosystem
 Primary Author: Gemini AI
-Co-Author: k
+Co-Author: @kellystorm
 """
 
 import os
